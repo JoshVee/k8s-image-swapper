@@ -11,7 +11,7 @@ require (
 	github.com/containers/storage v1.32.4 // indirect
 	github.com/dgraph-io/ristretto v0.1.0
 	github.com/docker/docker v20.10.7+incompatible // indirect
-	github.com/go-co-op/gocron v1.6.2
+	github.com/go-co-op/gocron v1.7.1
 	github.com/golang/glog v0.0.0-20210429001901-424d2337a529 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/go-cmp v0.5.6 // indirect
